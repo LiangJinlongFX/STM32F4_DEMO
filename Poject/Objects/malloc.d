@@ -3,7 +3,7 @@
 .\objects\malloc.o: ..\Common\sys.h
 .\objects\malloc.o: ..\SYSTEM\stm32f4xx.h
 .\objects\malloc.o: ..\CORE\core_cm4.h
-.\objects\malloc.o: D:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\malloc.o: D:\Program Files\MDK\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\malloc.o: ..\CORE\core_cmInstr.h
 .\objects\malloc.o: ..\CORE\core_cmFunc.h
 .\objects\malloc.o: ..\CORE\core_cmSimd.h

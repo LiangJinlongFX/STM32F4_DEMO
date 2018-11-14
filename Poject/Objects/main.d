@@ -1,7 +1,7 @@
 .\objects\main.o: ..\SYSTEM\main.c
 .\objects\main.o: ..\SYSTEM\stm32f4xx.h
 .\objects\main.o: ..\CORE\core_cm4.h
-.\objects\main.o: D:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: D:\Program Files\MDK\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\main.o: ..\CORE\core_cmInstr.h
 .\objects\main.o: ..\CORE\core_cmFunc.h
 .\objects\main.o: ..\CORE\core_cmSimd.h
@@ -38,4 +38,5 @@
 .\objects\main.o: ..\BSP_USER\LED\led.h
 .\objects\main.o: ..\Common\delay.h
 .\objects\main.o: ..\Common\usart1.h
-.\objects\main.o: D:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\main.o: D:\Program Files\MDK\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\main.o: ..\BSP_USER\SDIO_SD\sdio_sdcard.h

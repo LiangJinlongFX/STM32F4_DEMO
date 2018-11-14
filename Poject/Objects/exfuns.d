@@ -1,9 +1,9 @@
 .\objects\exfuns.o: ..\FATFS\exfuns\exfuns.c
-.\objects\exfuns.o: D:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
+.\objects\exfuns.o: D:\Program Files\MDK\ARM\ARMCC\Bin\..\include\string.h
 .\objects\exfuns.o: ..\FATFS\exfuns\exfuns.h
 .\objects\exfuns.o: ..\SYSTEM\stm32f4xx.h
 .\objects\exfuns.o: ..\CORE\core_cm4.h
-.\objects\exfuns.o: D:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\exfuns.o: D:\Program Files\MDK\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\exfuns.o: ..\CORE\core_cmInstr.h
 .\objects\exfuns.o: ..\CORE\core_cmFunc.h
 .\objects\exfuns.o: ..\CORE\core_cmSimd.h

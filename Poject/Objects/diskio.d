@@ -5,7 +5,7 @@
 .\objects\diskio.o: ..\Common\sys.h
 .\objects\diskio.o: ..\SYSTEM\stm32f4xx.h
 .\objects\diskio.o: ..\CORE\core_cm4.h
-.\objects\diskio.o: D:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\diskio.o: D:\Program Files\MDK\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\diskio.o: ..\CORE\core_cmInstr.h
 .\objects\diskio.o: ..\CORE\core_cmFunc.h
 .\objects\diskio.o: ..\CORE\core_cmSimd.h
